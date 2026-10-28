@@ -2,8 +2,9 @@ config_version=5
 
 [application]
 config/name="VELOCITY REALM"
-run/main_scene="res://main.tscn"
+run/main_scene="res://intro.tscn"
 config/features=PackedStringArray("4.3", "Mobile")
+config/icon="res://icon.png"
 
 [display]
 window/handheld/orientation=0
