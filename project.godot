@@ -1,0 +1,13 @@
+config_version=5
+
+[application]
+config/name="VELOCITY REALM"
+run/main_scene="res://main.tscn"
+config/features=PackedStringArray("4.3", "Mobile")
+
+[display]
+window/handheld/orientation=0
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="mobile"
